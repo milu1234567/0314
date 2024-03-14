@@ -1,0 +1,60 @@
+td{
+    width:10%;
+    height:10%;
+    text-align: center;
+    font-size: 200%;
+}
+.sarga:hover{
+    background-color: orange;
+}
+.yellow:hover{
+    background-color: yellow;
+}
+.blue:hover{
+    background-color: blue;
+    color:white;
+}
+.red:hover{
+    background-color: red;
+}
+.brown:hover{
+    background-color: brown;
+    color: white;
+}
+.green:hover{
+    background-color: green;
+    color: white;
+}
+.pink:hover{
+    background-color: pink;
+}
+.purple:hover{
+    background-color: purple;
+    color: white;
+}
+.white:hover{
+    background-color: aquamarine;
+}
+.grey:hover{
+    background-color: aqua;
+}
+.idk:hover{
+    background-color: cadetblue;
+}
+.nemtom:hover{
+    background-color:chartreuse;
+}
+.black:hover{
+    background-color: black;
+    color:white;
+}
+.rainbow:hover{
+    background-color: fuchsia;
+}
+
+a{
+    font-size: larger ;
+}
+body{
+    background-color: lightblue;
+}
